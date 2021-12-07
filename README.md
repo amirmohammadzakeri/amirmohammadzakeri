@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Amirmohammad Zakeri from Iran.
-- 👀 I’m interested in Physics, Programming and Data Engineering.
-- 🌱 I’m currently learning Cosmology, Philosophy , and more Python!
-- 💞️ I’m looking to collaborate on scientific projects containing programming, and also fields in science which are close to philosophical concerns!
+- 👀 I’m interested in Physics, Philosophy ,Programming and Data Engineering.
 - 📫 How to reach me : 
     amzakeri78@gmail.com
     +989029048065
